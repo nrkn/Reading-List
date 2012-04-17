@@ -5,3 +5,4 @@
 
 ## Books to re-read
 * [Born to Run] (http://www.amazon.com/Born-Run-Superathletes-Greatest-Vintage/dp/0307279189/ref=sr_1_1?s=books&ie=UTF8&qid=1334705093&sr=1-1)
+* [We Are Not Very Smart] (http://www.amazon.com/Are-Not-Very-Smart-Important/dp/0595413056/ref=sr_1_1?s=books&ie=UTF8&qid=1334705172&sr=1-1)
