@@ -8,6 +8,7 @@ Comprehensive? Hell no!
 
 ## Web pages to read
 * [I learned to speak four languages in a few years] (http://lifehacker.com/5903288/i-learned-to-speak-four-languages-in-a-few-years-heres-how)
+* [Make your own mead] (http://drinks.seriouseats.com/2012/01/homebrewing-make-your-own-mead-with-honey.html)
 
 ## Books to re-read
 * [Born to Run] (http://www.amazon.com/Born-Run-Superathletes-Greatest-Vintage/dp/0307279189/ref=sr_1_1?s=books&ie=UTF8&qid=1334705093&sr=1-1)
