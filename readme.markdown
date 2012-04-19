@@ -1,5 +1,7 @@
 # Reading List
 
+Comprehensive? Hell no!
+
 ## Books to read
 * [Debt: The First 5,000 Years] (http://www.amazon.com/exec/obidos/ASIN/1933633867/downandoutint-20)
 * [Case Studies in Common Lisp] (http://norvig.com/paip.html)
